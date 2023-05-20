@@ -10,7 +10,9 @@ function App() {
     <Navbar/>
     
     
+    <div className=' bg-green-300 w-full'> 
     mohammadjalizi
+    </div>
     
     </>
   )
