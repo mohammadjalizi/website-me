@@ -1,6 +1,7 @@
 import Navbar from './assets/navbar/Navbar'
 
 import './App.css'
+import Header from './assets/Header/Header'
 
 function App() {
 
@@ -11,7 +12,7 @@ function App() {
     
     
     <div className=' bg-green-300 w-full'> 
-    mohammadjalizi
+<Header/>
     </div>
     
     </>
