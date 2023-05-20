@@ -1,0 +1,17 @@
+.Nav{
+
+    
+
+  box-shadow: 0 7px 20px -5px rgba(255,131,131,.47);
+
+
+    background-color: #121212;
+    background-image: linear-gradient(rgba(255,255,255,.09),rgba(255,255,255,.09));
+    border-bottom: 1px solid #faebd7;
+}
+.Nav:hover{
+
+    background-color: #9e4673;
+}
+
+

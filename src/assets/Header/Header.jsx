@@ -2,9 +2,9 @@
 
 const Header = () => {
   return (
-    <div className=" bg-slate-900  h-full text-white text-3xl ">
+    <div className=" Photo  h-full text-white text-3xl ">
         
-        Header
+<div>  توسعه دهنده فرانت اند  </div>
         
         
         </div>

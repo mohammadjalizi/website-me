@@ -1,6 +1,12 @@
 #root {
+direction: rtl;
 
+  background-color: #2d2d2d;
+  color: #fff;
+  height:  100vh;
 }
+.row{
 
-
-
+  background-color: #9e4673;
+    box-shadow: 0 7px 20px -5px rgba(255,131,131,.47);
+}

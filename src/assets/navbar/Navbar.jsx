@@ -1,9 +1,9 @@
 
-
+import './Navbar.css'
 const Navbar = () => {
   return (
     <div>
-    <div className=' flex    flex-row-reverse gap-5  my-5 p-4  bg-pink-400 '>
+    <div className=' Nav flex    gap-5  my-5 p-4'>
 
         <a href="#">خانه</a>
         <a href="#">مهارت ها</a>
