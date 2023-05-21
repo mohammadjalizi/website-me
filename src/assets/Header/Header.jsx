@@ -3,10 +3,9 @@ const Header = () => {
   return (
     <div className="  ">
         
-<div  className=" text-white text-xl   mt-11 mx-14   ">
-
-<span> محمد جلیزی هستم</span>
-
+<div  className="  flex justify-center items-center  mt-48 text-white text-xl   mx-14   ">
+<h2>توسعه دهنده فرانت اند
+</h2>
 
 </div>
         
