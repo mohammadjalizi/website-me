@@ -1,10 +1,14 @@
 
-
 const Header = () => {
   return (
-    <div className=" Photo  h-full text-white text-3xl ">
+    <div className="  ">
         
-<div>  توسعه دهنده فرانت اند  </div>
+<div  className=" text-white text-xl   mt-11 mx-14   ">
+
+<span> محمد جلیزی هستم</span>
+
+
+</div>
         
         
         </div>

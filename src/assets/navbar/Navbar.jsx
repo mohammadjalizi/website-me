@@ -1,13 +1,24 @@
 
 import './Navbar.css'
 const Navbar = () => {
-  return (
-    <div>
-    <div className=' Nav flex    gap-5  my-5 p-4'>
 
-        <a href="#">خانه</a>
-        <a href="#">مهارت ها</a>
-        <a href="#">پروژه ها</a>
+  return (
+    <div className=' text-white text-1xl Nav flex   justify-between  my-5 p-6' >
+    <div className=' flex  '>
+
+        <a className=' mr-4 '   href="#">خانه</a>
+        <a  className=' mr-4 '  href="#">مهارت ها</a>
+        <a  className=' mr-4 '  href="#">پروژه ها</a>
+     d
+    </div>
+    <div className='   '>
+
+        <span className='text-["#ededed"]  text-2xl  '>
+
+        mohammadjalizi
+        </span>
+
+
     </div>
     </div>
   )
