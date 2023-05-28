@@ -13,7 +13,7 @@ const Navbar = () => {
     </div>
     <div className='   '>
 
-        <span className='text-["#ededed"]  text-2xl  '>
+        <span className='   Name text-["#ededed"]  text-2xl  '>
 
         mohammadjalizi
         </span>
