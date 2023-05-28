@@ -4,7 +4,8 @@ const Skils = () => {
   return (
     <div>
 
-<p  className="   mt-80  flex flex-wrap gap-3 items-center justify-center font-semibold text-2xl lg:text-4xl">
+<p  className="   mt-80
+  flex flex-wrap gap-3 items-center justify-center font-semibold text-2xl lg:text-4xl">
     
     < span className=' text-white '>مهارت های</span>
 
