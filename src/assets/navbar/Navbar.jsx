@@ -9,7 +9,7 @@ const Navbar = () => {
         <a className=' mr-4 '   href="#">خانه</a>
         <a  className=' mr-4 '  href="#">مهارت ها</a>
         <a  className=' mr-4 '  href="#">پروژه ها</a>
-     d
+  
     </div>
     <div className='   '>
 

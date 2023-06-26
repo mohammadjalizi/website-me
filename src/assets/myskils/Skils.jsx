@@ -11,6 +11,8 @@ const Skils = () => {
 
 
 <span className=" text-1xs md:text-2xl  mr-5 text-pink-400 "> محمد جلیزی</span></p>
+
+
         
     </div>
   )
