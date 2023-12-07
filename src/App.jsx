@@ -1,25 +1,35 @@
-import Navbar from './assets/navbar/Navbar'
+import React from 'react'
 
-import './App.css'
-import Header from './assets/Header/Header'
-import Skils from './assets/myskils/Skils'
-import Social from './assets/social/Social'
+import {
+  createBrowserRouter,
+  createRoutesFromElements,
+  Route,
+  RouterProvider,
+} from "react-router-dom";
+import Root from './pages/Root';
+import Home from './pages/Home/Home';
+import Cart from './pages/Cart/Cart';
+ 
 
-function App() {
+const router = createBrowserRouter(
+  createRoutesFromElements(
+    <Route path="/" element={<Root />}>
+      <Route index element={<Home />} />
+      <Route path="cart" element={<Cart  />} />
 
 
+
+
+     
+    </Route>
+  )
+);
+
+const App = () => {
   return (
-    <>
-    <Navbar/>
-    
-    
 
-<Header/>
-<Social/>
-<Skils/>
-
-    
-    </>
+   
+    <RouterProvider router={router} />
   )
 }
 

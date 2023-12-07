@@ -1,9 +1,0 @@
-.animate-color-text, .animate-color-text-hover:hover {
-    background: linear-gradient(to right,var(--primary) 20%,#f7435e 40%,#d870a9 80%);
-    -webkit-background-clip: text;
-    background-clip: text;
-    -webkit-text-fill-color: transparent;
-    background-size: 200% auto;
-    animation: textShine 2s infinite alternate;
-    transition: all .3s ease-in-out;
-}
